@@ -1,2 +1,4 @@
 # UnityTextureCombiner
-color channel combiner
+## color channel combiner
+
+![preview](/preview.gif)
